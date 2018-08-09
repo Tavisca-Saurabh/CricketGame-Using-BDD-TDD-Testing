@@ -1,0 +1,11 @@
+D:\CricketGame.Specs\CricketGame\bin\Debug\CricketGame.dll
+D:\CricketGame.Specs\CricketGame\bin\Debug\CricketGame.pdb
+D:\CricketGame.Specs\CricketGame\bin\Debug\FluentAssertions.dll
+D:\CricketGame.Specs\CricketGame\bin\Debug\System.ValueTuple.dll
+D:\CricketGame.Specs\CricketGame\bin\Debug\FluentAssertions.pdb
+D:\CricketGame.Specs\CricketGame\bin\Debug\FluentAssertions.xml
+D:\CricketGame.Specs\CricketGame\bin\Debug\System.ValueTuple.xml
+D:\CricketGame.Specs\CricketGame\obj\Debug\CricketGame.csproj.CoreCompileInputs.cache
+D:\CricketGame.Specs\CricketGame\obj\Debug\CricketGame.csproj.CopyComplete
+D:\CricketGame.Specs\CricketGame\obj\Debug\CricketGame.dll
+D:\CricketGame.Specs\CricketGame\obj\Debug\CricketGame.pdb

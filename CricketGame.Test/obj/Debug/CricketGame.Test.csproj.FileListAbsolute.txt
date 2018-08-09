@@ -1,0 +1,16 @@
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\CricketGame.Test.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\CricketGame.Test.pdb
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\CricketGame.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\CricketGame.pdb
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\CricketGame.Specs\CricketGame.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\CricketGame.Specs\CricketGame.Test\obj\Debug\CricketGame.Test.csprojAssemblyReference.cache
+D:\CricketGame.Specs\CricketGame.Test\obj\Debug\CricketGame.Test.csproj.CoreCompileInputs.cache
+D:\CricketGame.Specs\CricketGame.Test\obj\Debug\CricketGame.Test.csproj.CopyComplete
+D:\CricketGame.Specs\CricketGame.Test\obj\Debug\CricketGame.Test.dll
+D:\CricketGame.Specs\CricketGame.Test\obj\Debug\CricketGame.Test.pdb
